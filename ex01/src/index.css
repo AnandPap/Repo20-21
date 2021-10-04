@@ -13,12 +13,6 @@
     width: 100%;
 }
 
-.float2 {
-    float: top;
-    clear: both;
-
-}
-
 .keyboard__keys {
     text-align: center;
 }
@@ -59,10 +53,6 @@
 }
 
 .keyboard__key--extra-wide {
-    width: 54%;
-    max-width: 500px;
-}
-
-.keyboard__key--activatable:after {
-
+    width: 60%;
+    max-width: 790px;
 }
